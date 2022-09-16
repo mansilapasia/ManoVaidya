@@ -1,0 +1,2 @@
+# ManoVaidya
+ManoVaidya is portal that helps an individual to detect and overcome his/her mental health condition using different techniques and methods of Artificial intelligence thereby contributing in helping people to heal their condition. Users can give answers to the survey on the portal on basis of which his/her mental condition will be predicted and suitable actions and methods will be provided to the user after successful prediction.
