@@ -16,17 +16,18 @@ SignUp Page
 
 ![signup3](https://user-images.githubusercontent.com/53888710/190577646-e47c5953-39b2-4725-abd5-3d7cb9f9c182.JPG)
 
+Home Page
+
 ![login4-success](https://user-images.githubusercontent.com/53888710/190577709-04f6eb65-efe7-4db9-bcac-f9098ef3d220.JPG)
 
-HomePage
-
-<img width="960" alt="cog1" src="https://user-images.githubusercontent.com/53888710/190577791-aa5e198e-b7cc-4f73-a818-e75af11dde95.PNG">
 
 Cognitive Health Test Page
 
+<img width="960" alt="cog1" src="https://user-images.githubusercontent.com/53888710/190577791-aa5e198e-b7cc-4f73-a818-e75af11dde95.PNG">
+
+
 <img width="960" alt="cog3" src="https://user-images.githubusercontent.com/53888710/190577836-e88554df-15d6-42ed-9f74-44dddf4ce45d.PNG">
 
-<img width="960" alt="cog3" src="https://user-images.githubusercontent.com/53888710/190577974-8de1e79b-9094-4458-927c-8d1cd4d535fb.PNG">
 
 Chatbot Page
 
