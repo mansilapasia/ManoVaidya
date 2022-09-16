@@ -1,0 +1,9 @@
+1. Unistall previous python versions
+2. Download latest python[https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe]
+3. open cmd and "py -m pip install --upgrade pip"
+4. Clone this repo and open cmd with folder "../ManoVaidya" 
+5. pip install -U pipenv
+6. pipenv shell
+7. pipenv install --ignore-pipfile
+8. cd frontend
+9. npm install

@@ -1,0 +1,28 @@
+.root{
+    height: 300;
+}
+.image{
+    background-image: url('https://source.unsplash.com/random');
+    background-repeat: no-repeat;
+    background-color: gray;
+    background-size: cover;
+    background-position: center;
+}
+.paper{
+    margin-top: 80px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.avatar{
+    margin: 10px;
+    background-color: aqua;
+}
+.form{
+    width: 100%;
+    margin-top: 10px;
+}
+.submit{
+    margin: 10px;
+}
